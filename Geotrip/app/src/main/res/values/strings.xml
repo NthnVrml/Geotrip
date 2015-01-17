@@ -2,6 +2,14 @@
 <resources>
 
     <string name="app_name">GeoTrip</string>
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="btnIntend">Take Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+
+
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
